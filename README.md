@@ -42,3 +42,10 @@ https://cinescope-web1.netlify.app/
 
 - This product uses the TMDB API but is not endorsed or certified by TMDB.
 - Cinematic design tokens can be customized in `tailwind.config.js` and `src/index.css`.
+
+## REFERENCE IMAGES 
+<img width="1517" height="707" alt="image" src="https://github.com/user-attachments/assets/5c50009e-08b9-4788-b5f5-37cfc1c4ac86" />
+
+<img width="1517" height="720" alt="image" src="https://github.com/user-attachments/assets/3a5ced41-00cb-41dd-a035-51305dba3ea3" />
+
+
