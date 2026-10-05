@@ -35,6 +35,9 @@ CineScope is a production-ready React + Vite movie exploration web app with a ci
 - Preview build: `npm run preview`
 - Lint: `npm run lint`
 
+## URL
+https://cinescope-web1.netlify.app/
+
 ## Notes
 
 - This product uses the TMDB API but is not endorsed or certified by TMDB.
